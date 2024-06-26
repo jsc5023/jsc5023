@@ -1,13 +1,19 @@
 ## Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsc5023&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<br/>
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
 ![](https://img.shields.io/badge/asp.net-512BD4?style=flat&logo=OpenJDK&logoColor=white")
 ![](https://img.shields.io/badge/gitkraken-000000?style=flat&logo=gitkraken&logoColor=white")
 ![](https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white")
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
+<br/>
 
+<!--
+![Jsc5023's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsc5023&show_icons=true&theme=dark)
+// 아직 못올릴듯..... 스탯이 .... 너무낮음
+-->
+<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiu5121)](https://solved.ac/kiu5121/)
 
 
