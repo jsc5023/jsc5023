@@ -8,14 +8,9 @@
 ![](https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white")
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiu5121)](https://solved.ac/kiu5121/)
-
-
-<!--
 ![Jsc5023's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsc5023&show_icons=true&theme=dark)
-// 아직 못올릴듯..... 스탯이 .... 너무낮음
--->
 <br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiu5121)](https://solved.ac/kiu5121/)
 
 
 
