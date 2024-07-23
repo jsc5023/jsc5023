@@ -6,6 +6,8 @@
 ![](https://img.shields.io/badge/asp.net-512BD4?style=flat&logo=OpenJDK&logoColor=white")
 ![](https://img.shields.io/badge/gitkraken-000000?style=flat&logo=gitkraken&logoColor=white")
 ![](https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white")
+![](https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=intellijidea&logoColor=white")
+![](https://img.shields.io/badge/PostgreSql-4169E1?style=flat&logo=postgresql&logoColor=white")
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
 <br/>
 ![Jsc5023's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsc5023&show_icons=true&theme=dark)
